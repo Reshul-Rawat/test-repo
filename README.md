@@ -8,3 +8,5 @@ Just testing merge conflicts.
 Understood 1 type of conflict
 
 Just used codespace.
+
+Just created new branch awesome
