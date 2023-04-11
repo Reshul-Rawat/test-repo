@@ -8,3 +8,5 @@ Just testing merge conflicts.
 Understood 1 type of conflict
 
 Just used codespace.
+
+I am also using main branch !
